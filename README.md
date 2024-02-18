@@ -1,1 +1,1 @@
-# LeschEDU
+# LeschEDU A simple website that use html, css, and bootstrap as framework, php and mysql as data base its function is sign in and registration and dashboard, it use crud system to create, updat, and delete data .
